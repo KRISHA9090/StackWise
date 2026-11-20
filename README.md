@@ -271,15 +271,4 @@ git push origin feature/your-feature
 5. Open a Pull Request.
 
 ---
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
-
-
----
-
 If you find StackWise useful, please give the repository a star.
